@@ -8,9 +8,12 @@ function Layout({children}) {
   <>
   <Header />
   <div>{children}</div>
-   <Footer />git push -u origin main
+   <Footer />
  </>
   )
 }
 
 export default Layout;
+
+
+
